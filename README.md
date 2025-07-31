@@ -7,10 +7,9 @@ The dimensions are also interpreted based on which sin is loaded in them to char
 
 Play with it by giving it biographies, or known literary texts, or your own stories.
 
-![readme1](/readmeimages/readme1.png)
 
-![readme2](/readmeimages/readme2.png)
-
+<img src="/readmeimages/readme1.png" width="500">
+<img src="/readmeimages/readme2.png" width="500">
 ---
 
 ## Setup
