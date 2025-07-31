@@ -44,7 +44,13 @@ cd Sinbeddings
 sinbedding_env/Scripts/Activate.ps1     
 ```
 - Step 3: Make sure the streamlit python script is at this directory
-- Step 4: Figure out where to put your openai API key for the LLM sin-coding to work.
+- Step 4: Create a .streamlit folder to put your openAI API key into a `secrets.toml` file for the LLM sincoding to work.
+```bash
+mkdir .steamlit cd .streamlit
+cat <<EOF > secrets.toml
+openai_api_key = "your-key"
+EOF
+```
 - Step 5: Run streamlit script
 ```bash
 # run python script
