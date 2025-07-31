@@ -49,6 +49,6 @@ sinbedding_env/Scripts/Activate.ps1
 - Step 5: Run streamlit script
 ```bash
 # run python script
-streamlit run sinbedding_dashboard_v4.py   
+streamlit run sinbedding_dashboard.py   
 ```
 
