@@ -7,6 +7,10 @@ The dimensions are also interpreted based on which sin is loaded in them to char
 
 Play with it by giving it biographies, or known literary texts, or your own stories.
 
+![[readmeimages/readme1.png|500]]
+
+![[readmeimages/readme2.png|500]]
+
 ---
 
 ## Setup
